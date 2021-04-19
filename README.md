@@ -1,4 +1,4 @@
-# UtpJavaMassage
+# utopia-mass-messaging
 Application based on Utopia API, which is a tool for mass messaging.
 
 Example
